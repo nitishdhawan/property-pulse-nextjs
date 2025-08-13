@@ -1,7 +1,7 @@
 import '@/assets/styles/global.css'
 
 export const metadata = {
-  title: 'Property Pulsev',
+  title: 'Property Pulsevasd',
   keywords: 'property management, real estate, property listings',
   description: 'A Next.js application for property management',
 }
