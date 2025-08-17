@@ -5,10 +5,10 @@ Briefly describe the purpose of this PR and the problem it solves.
 Closes #[issue_number] or relates to #[issue_number]
 
 ## ✅ Checklist
-- ( ) New feature
-- ( ) Bug fix
-- ( ) Unit tests added/updated
-- ( ) Documentation 
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Unit tests added/updated
+- [ ] Documentation 
 
 ## 🧪 Testing
 Describe how the changes were tested and any edge cases considered.
