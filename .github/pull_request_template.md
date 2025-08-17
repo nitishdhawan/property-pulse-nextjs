@@ -8,7 +8,7 @@ Closes #[issue_number] or relates to #[issue_number]
 - ( ) New feature
 - ( ) Bug fix
 - ( ) Unit tests added/updated
-- ( ) Documentation updated
+- ( ) Documentation 
 
 ## 🧪 Testing
 Describe how the changes were tested and any edge cases considered.
